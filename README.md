@@ -23,6 +23,6 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) 
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD&logoColor=#FF61F6) 
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub Stats & Trophies
 ![Taku's GitHub stats](https://github-readme-stats.vercel.app/api?username=takumuguti&show_icons=true&theme=dark&include_all_commits=true)
 ![](https://github-profile-trophy.vercel.app/?username=takumuguti&theme=onestar&no-frame=false&no-bg=true&margin-w=4)
