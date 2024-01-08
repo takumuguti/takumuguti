@@ -2,9 +2,13 @@
 💻 Software Engineer, currently working as an iOS Engineer at Standard Bank SA<br>
 👨🏾‍🎓 Studied Computer science at the University of Pretoria, South Africa<br>
 🌱 Currently learning about machine learning<br> 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/takumuguti) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@takumuguti) 
 
-# 🛠️ Langauges and Tools
+--- 
+
+### 🛠️ Langauges and Tools
+
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=plastic&logo=swift&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
@@ -19,5 +23,5 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) 
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD&logoColor=#FF61F6) 
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=takumuguti&theme=radical&no-frame=false&no-bg=true&margin-w=4)
