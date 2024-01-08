@@ -1,6 +1,6 @@
 # Taku Muguti
 💻 Software Engineer, currently working as an iOS Engineer at Standard Bank SA<br>
-👨🏾‍🎓 Studied Computer science at the University of Pretoria, South Africa<br>
+👨🏾‍🎓 Studied Computer Science at the University of Pretoria, South Africa<br>
 🌱 Currently learning about machine learning<br> 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/takumuguti) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@takumuguti) 
