@@ -1,5 +1,5 @@
 # Taku Muguti
-💻 Software Engineer
+💻 Software Engineer<br>
 🎓 Computer Science, University of Pretoria, South Africa<br>
 🏡 Living in Melbourne Australia<br> 
 🌱 Currently upskilling on iOS Development<br> 
