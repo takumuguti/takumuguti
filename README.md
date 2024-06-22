@@ -4,7 +4,7 @@
 🏡 Living in Melbourne Australia<br> 
 🌱 Currently upskilling on iOS Development<br> 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/takumuguti) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@takumuguti) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/takumuguti) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@takumuguti) [![Website](https://img.shields.io/badge/Website-takumuguti.com-purple)](http://takumuguti.com)
 
 --- 
 
