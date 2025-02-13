@@ -28,7 +28,7 @@
 
 I'm always happy to chat about projects, ideas, or anything on your mind. If you'd like to have a quick call or a detailed discussion, feel free to schedule a time that suits you!
 
-📞 **[Book a Call with Me](https://cal.com/takumuguti)** 📅
+📞 **[Book a free call with Me](https://cal.com/takumuguti)** 📅
 
 Looking forward to our conversation!
 
