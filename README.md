@@ -32,6 +32,9 @@ I'm always happy to chat about projects, ideas, or anything on your mind. If you
 
 Looking forward to our conversation!
 
+
+### 🚀 LeetCode 
+![LeetCode Stats](https://leetcard.jacoblin.cool/takumuguti?theme=dark&font=Inter&ext=activity)
 <!-- Remove for now
 ### 🏆 GitHub Stats & Trophies
 ![Taku's GitHub stats](https://github-readme-stats.vercel.app/api?username=takumuguti&show_icons=true&theme=dark&include_all_commits=true)
