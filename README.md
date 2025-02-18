@@ -24,6 +24,9 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) 
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD&logoColor=#FF61F6) 
 
+### 🚀 LeetCode 
+![LeetCode Stats](https://leetcard.jacoblin.cool/takumuguti?theme=dark&font=Inter&ext=activity)
+
 ### Let's Connect! ✨
 
 I'm always happy to chat about projects, ideas, or anything on your mind. If you'd like to have a quick call or a detailed discussion, feel free to schedule a time that suits you!
@@ -31,10 +34,6 @@ I'm always happy to chat about projects, ideas, or anything on your mind. If you
 📞 **[Book a free call with Me](https://cal.com/takumuguti)** 📅
 
 Looking forward to our conversation!
-
-
-### 🚀 LeetCode 
-![LeetCode Stats](https://leetcard.jacoblin.cool/takumuguti?theme=dark&font=Inter&ext=activity)
 <!-- Remove for now
 ### 🏆 GitHub Stats & Trophies
 ![Taku's GitHub stats](https://github-readme-stats.vercel.app/api?username=takumuguti&show_icons=true&theme=dark&include_all_commits=true)
