@@ -25,7 +25,7 @@
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD&logoColor=#FF61F6) 
 
 ### 🚀 LeetCode 
-![LeetCode Stats](https://leetcard.jacoblin.cool/takumuguti?theme=dark&font=Inter&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/takumuguti?theme=dark&font=Inter)
 
 ### Let's Connect! ✨
 
