@@ -1,6 +1,6 @@
 # Taku Muguti
 💻 Software Engineer<br>
-🎓 Computer Science, University of Pretoria, South Africa<br>
+🎓 BSc Computer Science graudate, University of Pretoria<br>
 🏡 Living in Melbourne Australia<br> 
 🌱 Currently building Fundeo <br> 
 
