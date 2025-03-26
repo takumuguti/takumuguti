@@ -24,9 +24,10 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) 
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD&logoColor=#FF61F6) 
 
+<!--
 ### 🚀 LeetCode 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/takumuguti?theme=dark&font=Inter)
-
+-->
 ### Let's Connect! ✨
 
 I'm always happy to chat about projects, ideas, or anything on your mind. If you'd like to have a quick call or a detailed discussion, feel free to schedule a time that suits you!
